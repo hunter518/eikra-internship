@@ -462,7 +462,8 @@ body{
     padding: 15px 40px;
 }
 #seo{
-margin:auto auto;
+width:100%;
+text-align: center;
 }
 .bottom p{
     color: #626262;
